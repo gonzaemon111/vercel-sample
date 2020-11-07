@@ -1,4 +1,8 @@
-# vercel-sample
+# Jobs
+
+## CSS フレームワーク
+
+- [Buefy](https://buefy.org/)
 
 ## Build Setup
 
@@ -17,4 +21,3 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
