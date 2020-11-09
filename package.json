@@ -16,8 +16,15 @@
     "@nuxtjs/now-builder": "^0.17.3",
     "@nuxtjs/pwa": "^3.0.2",
     "core-js": "^3.6.5",
+    "node-sass": "^5.0.0",
     "nuxt": "^2.14.6",
-    "nuxt-buefy": "^0.4.3"
+    "nuxt-buefy": "^0.4.3",
+    "pug": "^3.0.0",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^10.0.5",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^4.2.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.1.0",
